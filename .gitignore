@@ -1,0 +1,42 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Binarios y ejecutables
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.7z
+*.zip
+*.rar
+
+# Archivos de análisis (pesados)
+*.pcap
+*.pcapng
+*.dmp
+*.vmem
+*.vmdk
+
+# Archivos temporales
+*.tmp
+*.log
+*.cache
+*.temp
+
+# Editores y entornos
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# Archivos de entorno
+.env
+.env.local
+
+# Archivos de prueba
+test_*
+sample_*
