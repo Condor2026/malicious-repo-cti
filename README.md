@@ -1,7 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/%F0%9F%A6%85%F0%9F%A6%85%F0%9F%A6%85%20Condor2026%20%E2%80%93%20Threat%20Investigator%20%F0%9F%A6%85%F0%9F%A6%85%F0%9F%A6%85-red)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Report+Malicius+REPOSITORIOS+%7C+Threat+Hunter;OSINT+%7C+Purple+Team;Andr%C3%B3MEDA+%5BCTI%5D;Condor+Project+%5BIncidenct%5D;Threat+Intelligence+CYBER+SEC" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Report+Malicius+REPOS+%7C+Threat+Hunter;OSINT+%7C+Purple+Team;Andr%C3%B3MEDA+%5BCTI%5D;Condor+Project+%5BIncidenct%5D;Threat+Intelligence+CYBER+SEC" alt="Typing animation" />
 </p>
 
 # 🛡️ Condor Project
