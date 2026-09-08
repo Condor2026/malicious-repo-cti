@@ -1,7 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/%F0%9F%A6%85%F0%9F%A6%85%F0%9F%A6%85%20Condor2026%20%E2%80%93%20Threat%20Investigator%20%F0%9F%A6%85%F0%9F%A6%85%F0%9F%A6%85-red)
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Malicious+Repo+CTI+%7C+Threat+Intelligence;OSINT+%7C+Purple+Team+%7C+Threat+Hunting;Tracking+Fake+Repositories+Worldwide;IOCs+%7C+YARA+Rules+%7C+Sigma+Queries;Open+Source+Threat+Intelligence;Protecting+the+Supply+Chain" alt="Malicious Repo CTI - Threat Intelligence" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Malicious+Repo+CTI;Threat+Intelligence+%26+OSINT;Purple+Team+%7C+Threat+Hunting;Fake+Repositories;IOCs+%7C+YARA+%7C+Sigma;Supply+Chain+Protection" alt="Malicious Repo CTI - Threat Intelligence" />
 </p>
 
 # 🛡️ GhostSocks Project
