@@ -1,0 +1,63 @@
+# ================================================================
+# MALICIOUS REPO CTI - IOCs
+# Caso: Fake GLM-5.3 Installer → GhostSocks Malware
+# Fecha: 2026-09-08
+# Autor: Condor2026
+# ================================================================
+
+# -------------------- ARCHIVOS (SHA256) --------------------
+# Ejecutable principal (PhalanxShield.exe)
+0f6c506f7616965500f242819fb13aee6459fad1e08624b871219b2859b0a493
+
+# Archivo contenedor (GLM-5.3-x64.7z)
+6e3cf3a21c37890e02848189b158e1dd1056feb91715f38e0012978f94c43ad2
+
+# Otros hashes relacionados (droppeados, empaquetados)
+401c92f9b276548baf4809508b26ff9aec8e64863f7f52879109ac117b22e4d9
+884fc3138d8536c9a78b0169ca8377d7480be8132f0cc58885ca1d2647f7510a
+2b83640eaeecabca6e72de93583565b30d4ad244f8cdd75adcd4a06260d51312
+96568e700cd5774df446589b3dc4694832ea845c256cd0efde54d474fd8c99f1
+7fc678ff1fccca49f89e6ee099a447ff949f0e1232fe2480f3a193b3dce18373
+7f5c28946da6fcb8f58aa750c9e6420cf0876855cd05e051df118142c0ca3e23
+4543a1b104e6dc59d6d4a7847459f15cc1dc26e0fcb0acb461daf3749a0ff2a2
+
+# -------------------- IPs C2 --------------------------------
+# Primarios (Cloudflare)
+162.159.36.2
+162.159.129.233
+162.159.130.233
+162.159.133.233
+162.159.134.233
+
+# Secundarios
+104.16.79.73
+104.16.80.73
+104.18.26.243
+104.18.27.243
+23.195.81.16
+23.195.81.27
+23.195.81.33
+23.195.81.41
+23.64.112.135
+23.64.112.187
+52.111.236.22
+178.162.136.155
+
+# -------------------- DOMINIOS ------------------------------
+# C2 y descarga de payloads
+assets.guns.lol
+guns.lol
+r2.guns.lol
+sa.guns.lol
+
+# -------------------- URL DEL REPOSITORIO -------------------
+https://github.com/GLM-5-3-app/GLM-5.3
+
+# -------------------- NOMBRES DE ARCHIVO --------------------
+GLM-5.3-x64.7z
+PhalanxShield.exe
+GLM-5.3-macOS-arm64.dmg
+
+# ================================================================
+# FIN DE LOS IOCs
+# ================================================================
